@@ -1,0 +1,28 @@
+{
+  "name": "docsifyblog",
+  "version": "1.0.0",
+  "description": "> An awesome project.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LairLiu/docsifyBlog.git"
+  },
+  "keywords": [
+    "docsify",
+    "markdown",
+    "blog",
+    "html"
+  ],
+  "author": "lair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LairLiu/docsifyBlog/issues"
+  },
+  "homepage": "https://github.com/LairLiu/docsifyBlog#readme"
+}
